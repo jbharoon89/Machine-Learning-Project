@@ -1,0 +1,10 @@
+References:
+
+https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
+
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+http://scikit-learn.org/stable/modules/tree.html
+
+http://scikit-learn.org/stable/modules/clustering.html#k-means
+

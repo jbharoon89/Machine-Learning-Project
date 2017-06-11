@@ -1,0 +1,11 @@
+Hi,
+
+Please Note:
+
+poi_id.py -> Contains all the Code Work
+
+tester.py -> Used to test the algorithms.
+
+final_project_dataset.pkl -> Dataset Used
+
+Machine Learning - Report.pdf -> Report
