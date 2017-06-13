@@ -2,9 +2,9 @@ Hi,
 
 Please Note:
 
-poi_id.py -> Contains all the Code Work
+poi_id.py -> Contains all the code.
 
-tester.py -> Used to test the algorithms.
+tester.py -> Used to test the perfromance of algorithms.
 
 final_project_dataset.pkl -> Dataset Used
 
