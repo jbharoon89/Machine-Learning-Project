@@ -278,7 +278,7 @@ print '\n Random Forest Output:', tester.test_classifier(r_clf, my_dataset, best
 
 ### Unsupervised Algorithm
 # KMeans Cluster
-k_clf = KMeans(n_clusters = 2, algorithm = 'elkan', tol = 0.001)
+# k_clf = KMeans(n_clusters = 2, algorithm = 'elkan', tol = 0.001)
 
 print '\n KMeans Output:', tester.test_classifier(k_clf, my_dataset, best_features)
 
